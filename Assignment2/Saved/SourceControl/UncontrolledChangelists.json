@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewBlueprints/BP_BoxCorners.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewBlueprints/BP_BoxAssembler.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewBlueprints/BP_BoxWalls.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewMaterials/M_Walls.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewMaterials/M_Corners.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewBlueprints/BP_Balls.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewMaterials/M_Balls.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/NewBlueprints/BP_PyramidAssembler.uasset"
+			]
+		}
+	]
+}
