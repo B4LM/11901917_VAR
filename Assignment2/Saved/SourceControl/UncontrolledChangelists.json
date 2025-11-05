@@ -21,7 +21,10 @@
 				"C:/Dev/11901917_VAR/Assignment2/Content/Downloads/Queue/CueStickMetal.uasset",
 				"C:/Dev/11901917_VAR/Assignment2/Content/Downloads/Queue/CueStickNormal.uasset",
 				"C:/Dev/11901917_VAR/Assignment2/Content/Downloads/Queue/CueStickRough.uasset",
-				"C:/Dev/11901917_VAR/Assignment2/Content/Downloads/internal_ground_ao_texture.uasset"
+				"C:/Dev/11901917_VAR/Assignment2/Content/Downloads/internal_ground_ao_texture.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/GrabComponent.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
