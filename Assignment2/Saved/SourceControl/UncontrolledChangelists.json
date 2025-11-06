@@ -24,7 +24,17 @@
 				"C:/Dev/11901917_VAR/Assignment2/Content/Downloads/internal_ground_ao_texture.uasset",
 				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/GrabComponent.uasset",
 				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/Pistol.uasset",
-				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/VRPawn.uasset"
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAim_Left.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAim_Right.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAimReleased_Right.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAimReleased_Left.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAim_Left1.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAim_Right1.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAimReleased_Left1.uasset",
+				"C:/Dev/11901917_VAR/Assignment2/Content/VRTemplate/Input/Actions/IA_TriggerAimReleasedReleased_Left1.uasset"
 			]
 		}
 	]
